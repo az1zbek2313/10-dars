@@ -1,0 +1,45 @@
+{
+    "cars": [
+      {
+        "brand": "Mercedes-Benz",
+        "model": "Citan",
+        "carBody": "van",
+        "color": "yellow",
+        "price": "10000$",
+        "year": 2010
+      },
+      {
+        "brand": "Lexus",
+        "model": "GX",
+        "carBody": "4WD",
+        "color": "orange",
+        "price": "50000$",
+        "year": 2020,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/VW_Touareg_Exclusive_V6_TDI_BlueMotion_Technology_%28II%29_%E2%80%93_Frontansicht%2C_3._Juli_2013%2C_M%C3%BCnster.jpg/400px-VW_Touareg_Exclusive_V6_TDI_BlueMotion_Technology_%28II%29_%E2%80%93_Frontansicht%2C_3._Juli_2013%2C_M%C3%BCnster.jpg"
+      },
+      {
+        "brand": "Toyota",
+        "model": "RAV4",
+        "carBody": "crossover",
+        "color": "lightgray",
+        "price": "15000$",
+        "year": 2015
+      },
+      {
+        "brand": "Hyundai",
+        "model": "Grand i10 Nios",
+        "carBody": "hatchback",
+        "color": "grey",
+        "price": "30000$",
+        "year": 2018
+      },
+      {
+        "brand": "Honda",
+        "model": "Civic",
+        "carBody": "sedan",
+        "color": "red",
+        "price": "25000$",
+        "year": 2010
+      }
+    ]
+  }
